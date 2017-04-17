@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TableOfContents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>sorry</name>
+  <displayName>Sorry</displayName>
+  <author>A person</author>
+  <displayVersion>10</displayVersion>
+  <version>10</version>
+  <winLossType>Chess</winLossType>
+  <boardSize>
+    <width>8</width>
+    <length>8</length>
+  </boardSize>
+  <pieces />
+</TableOfContents>

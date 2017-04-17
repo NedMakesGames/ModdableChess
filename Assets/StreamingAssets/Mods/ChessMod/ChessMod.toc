@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TableOfContents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>chess</name>
+  <displayName>Chess</displayName>
+  <author>Ned</author>
+  <displayVersion>1, February 13th 2017</displayVersion>
+  <version>1</version>
+  <boardSize>
+    <width>8</width>
+    <length>8</length>
+  </boardSize>
+  <worldTileSize>3</worldTileSize>
+  <boardModel>chess/Board</boardModel>
+  
+  <!--<extraLuaFiles>
+	<string>NaturalMovement</string>
+  </extraLuaFiles>-->
+  <indicatorStackingHeight>0.75</indicatorStackingHeight>
+  <boardSetupFunction>BoardSetup</boardSetupFunction>
+  <winLossFunction>WinLossCheck</winLossFunction>
+  <pieces>
+    <Piece>
+      <name>Pawn</name>
+      <player1Model>chess/Pawn</player1Model>
+      <player2Model>chess/Pawn P2</player2Model>
+      <actionOptionFunction>Movement.pawnMovement</actionOptionFunction>
+    </Piece>
+	<Piece>
+      <name>Knight</name>
+      <player1Model>chess/Knight</player1Model>
+      <player2Model>chess/Knight P2</player2Model>
+      <actionOptionFunction>Movement.knightMovement</actionOptionFunction>
+    </Piece>
+	<Piece>
+      <name>Rook</name>
+      <player1Model>chess/Rook</player1Model>
+      <player2Model>chess/Rook P2</player2Model>
+      <actionOptionFunction>Movement.rookMovement</actionOptionFunction>
+    </Piece>
+	<Piece>
+      <name>Bishop</name>
+      <player1Model>chess/Bishop</player1Model>
+      <player2Model>chess/Bishop P2</player2Model>
+      <actionOptionFunction>Movement.bishopMovement</actionOptionFunction>
+    </Piece>
+	<Piece>
+      <name>Queen</name>
+      <player1Model>chess/Queen</player1Model>
+      <player2Model>chess/Queen P2</player2Model>
+      <actionOptionFunction>Movement.queenMovement</actionOptionFunction>
+    </Piece>
+	<Piece>
+      <name>King</name>
+      <player1Model>chess/King</player1Model>
+      <player2Model>chess/King P2</player2Model>
+      <actionOptionFunction>Movement.kingMovement</actionOptionFunction>
+    </Piece>
+  </pieces>
+  <actionIndicators>
+	<ActionIndicator>
+		<type>move</type>
+		<strength>selected</strength>
+		<model>chess/Indicator Move Selected</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>capture</type>
+		<strength>selected</strength>
+		<model>chess/Indicator Capture Selected</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>promote</type>
+		<strength>selected</strength>
+		<model>chess/Indicator Promote Selected</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>move</type>
+		<strength>inactive</strength>
+		<model>chess/Indicator Move Inactive</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>capture</type>
+		<strength>inactive</strength>
+		<model>chess/Indicator Capture Inactive</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>promote</type>
+		<strength>inactive</strength>
+		<model>chess/Indicator Promote Inactive</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>move</type>
+		<strength>mouseover</strength>
+		<model>chess/Indicator Move MouseOver</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>capture</type>
+		<strength>mouseover</strength>
+		<model>chess/Indicator Capture MouseOver</model>
+	</ActionIndicator>
+	<ActionIndicator>
+		<type>promote</type>
+		<strength>mouseover</strength>
+		<model>chess/Indicator Promote MouseOver</model>
+	</ActionIndicator>
+  </actionIndicators>
+</TableOfContents>

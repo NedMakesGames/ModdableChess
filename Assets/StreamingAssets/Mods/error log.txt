@@ -1,0 +1,194 @@
+Unable to load asset "chess/Board": NotContained
+Unable to load asset "chess/Board": NotContained
+Unable to load asset "chess/Board": NotContained
+Unable to load asset "chess/Board": NotContained
+Unable to load asset "chess/BoardModel": NotContained
+Unable to load asset "chess/BoardModel": NotContained
+Cannot load table of contents, error: MissingFolder
+No value given for expected asset: boardModel
+Invalid world tile size
+No value given for expected asset: piece Pawn moveOptionFunction
+No value given for expected asset: piece Pawn moveOptionFunction
+No value given for expected asset: piece Pawn moveOptionFunction
+No value given for expected asset: piece Pawn moveOptionFunction
+No value given for expected asset: piece Pawn moveOptionFunction
+Lua runtime exception: chunk_0:(4,1-41): attempt to index a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(5,13-55): attempt to perform arithmetic on a nil value
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_0:(7,2-55): cannot access field pieceAtPosition of userdata<ModdableChess.Mods.Lua.Board>
+Syntax exception in Lua file "Movement": chunk_0:(45,0-13): 'end' expected near 'queenMovement'
+Syntax exception in Lua file "Movement": chunk_0:(45,0-13): 'end' expected near 'queenMovement'
+Lua runtime exception: chunk_0:(37,1-46): cannot convert a nil to a clr type System.Int32
+Lua runtime exception: chunk_0:(37,1-46): cannot convert a nil to a clr type System.Int32
+Lua runtime exception: chunk_0:(37,1-46): cannot convert a nil to a clr type System.Int32
+Lua runtime exception: chunk_0:(37,1-46): cannot convert a nil to a clr type System.Int32
+Lua runtime exception: chunk_0:(37,1-46): cannot convert a nil to a clr type System.Int32
+Lua runtime exception: chunk_0:(37,1-46): cannot convert a nil to a clr type System.Int32
+Lua runtime exception: chunk_0:(37,1-46): cannot convert a nil to a clr type System.Int32
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(119,1-24): attempt to compare nil with number
+Lua runtime exception: chunk_0:(123,1-90): attempt to index a nil value
+Lua runtime exception: chunk_0:(123,1-90): attempt to index a nil value
+Lua runtime exception: chunk_0:(123,1-90): attempt to index a nil value
+Lua runtime exception: chunk_0:(123,1-90): attempt to index a nil value
+Lua runtime exception: chunk_0:(123,1-90): attempt to index a nil value
+Lua runtime exception: chunk_0:(123,1-90): attempt to index a nil value
+Lua runtime exception: chunk_0:(123,1-90): attempt to index a nil value
+Lua runtime exception: chunk_0:(43,15-69): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+Lua runtime exception: chunk_0:(111,15-71): cannot convert clr type ModdableChess.Mods.Lua.TurnActionComponent
+No value given for expected asset: piece Pawn actionOptionFunction
+Lua runtime exception: 
+Lua runtime exception: 
+Lua runtime exception: 
+Lua runtime exception: chunk_1:(3,1-42): attempt to index a nil value
+Turn action execution error on component 0: Cannot move! Piece exists on (5, 4) already. Capture first?
+Syntax exception in Lua file "WinLossCheck": chunk_1:(14,4-5): unexpected symbol near '~'
+Syntax exception in Lua file "WinLossCheck": chunk_1:(23,3): unexpected symbol near '<eof>'
+Syntax exception in Lua file "Movement": chunk_2:(94,29-30): ')' expected (to close '(' at line 94) near '.'
+Syntax exception in Lua file "Movement": chunk_2:(173,0): 'end' expected near '<eof>'
+Syntax exception in Lua file "Movement": chunk_2:(39,3-8): <break> at line 39 not inside a loop
+Lua runtime exception: chunk_2:(46,1-54): attempt to index a nil value
+Piece Rook action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(80,1-54): attempt to index a nil value
+Piece Knight action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(80,1-54): attempt to index a nil value
+Lua runtime exception: chunk_2:(15,1-42): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Piece Queen action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(15,1-42): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(33,1-41): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(15,1-42): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_2:(15,1-42): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(15,1-42): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Piece Queen action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(33,1-41): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_2:(15,1-42): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_2:(15,1-42): cannot access field positionX of userdata<ModdableChess.Mods.Lua.Board>
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_1:(6,2-30): cannot access field name of userdata<ModdableChess.Mods.Lua.Piece>
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(112,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Lua runtime exception: chunk_2:(114,13-76): function call doesn't match any overload
+Piece Pawn action function error: Expected table to be returned
+Lua runtime exception: chunk_1:(6,2-30): cannot access field name of userdata<ModdableChess.Mods.Lua.Piece>
+No value given for expected asset: boardModel
+Invalid world tile size

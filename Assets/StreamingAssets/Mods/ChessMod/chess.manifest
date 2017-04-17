@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2670984357
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fba4181115fff29646eec550069c8c31
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7f73e67b0f79c2b43eb653173cc86a12
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/ChessMod/Prefabs/Indicator Promote Selected.prefab
+- Assets/ChessMod/Prefabs/Rook P2.prefab
+- Assets/ChessMod/Prefabs/Queen P2.prefab
+- Assets/ChessMod/Prefabs/Bishop.prefab
+- Assets/ChessMod/Prefabs/Indicator Move Selected.prefab
+- Assets/ChessMod/Prefabs/Indicator Move MouseOver.prefab
+- Assets/ChessMod/Prefabs/Bishop P2.prefab
+- Assets/ChessMod/Prefabs/Knight.prefab
+- Assets/ChessMod/Prefabs/Pawn.prefab
+- Assets/ChessMod/Prefabs/Indicator Promote MouseOver.prefab
+- Assets/ChessMod/Prefabs/Queen.prefab
+- Assets/ChessMod/Prefabs/Indicator Capture Inactive.prefab
+- Assets/ChessMod/Prefabs/Indicator Move Inactive.prefab
+- Assets/ChessMod/Prefabs/Board.prefab
+- Assets/ChessMod/Prefabs/Knight P2.prefab
+- Assets/ChessMod/Prefabs/Indicator Promote Inactive.prefab
+- Assets/ChessMod/Prefabs/Indicator Capture Selected.prefab
+- Assets/ChessMod/Prefabs/Indicator Capture MouseOver.prefab
+- Assets/ChessMod/Prefabs/King.prefab
+- Assets/ChessMod/Prefabs/King P2.prefab
+- Assets/ChessMod/Prefabs/Rook.prefab
+- Assets/ChessMod/Prefabs/Pawn P2.prefab
+Dependencies: []

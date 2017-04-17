@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TableOfContents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>catchess</name>
+  <displayName>Cat Chess</displayName>
+  <author>Cat</author>
+  <displayVersion>1, February 27th 2017</displayVersion>
+  <version>1</version>
+  <winLossType>Chess</winLossType>
+  <boardSize>
+    <width>8</width>
+    <length>8</length>
+  </boardSize>
+  <pieces />
+</TableOfContents>

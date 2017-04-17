@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="768"
+   viewBox="0 0 270.93333 203.20001"
+   version="1.1"
+   id="svg4491"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Lobby Mockup.svg">
+  <defs
+     id="defs4485" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-1473.2038"
+     inkscape:cy="-394.09139"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:snap-global="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4488">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-93.799983)">
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.21183479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5044"
+       width="270.93332"
+       height="203.2"
+       x="-301.625"
+       y="30.299969" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-193.82883"
+       y="85.737923"
+       id="text5038"><tspan
+         sodipodi:role="line"
+         id="tspan5036"
+         x="-193.82883"
+         y="85.737923"
+         style="stroke-width:0.26458332px">Start game</tspan></text>
+    <text
+       id="text5042"
+       y="107.38674"
+       x="-191.4234"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="107.38674"
+         x="-191.4234"
+         id="tspan5040"
+         sodipodi:role="line">Join game</tspan></text>
+    <rect
+       y="251.59915"
+       x="-301.625"
+       height="203.2"
+       width="270.93332"
+       id="rect5046"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.21183479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text5050"
+       y="85.737923"
+       x="-193.82883"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="85.737923"
+         x="-193.82883"
+         id="tspan5048"
+         sodipodi:role="line">Start game</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-220.02126"
+       y="300.62259"
+       id="text5054"><tspan
+         sodipodi:role="line"
+         id="tspan5052"
+         x="-220.02126"
+         y="300.62259"
+         style="stroke-width:0.26458332px">Port _____</tspan></text>
+    <text
+       id="text5058"
+       y="334.07349"
+       x="-198.66559"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="334.07349"
+         x="-198.66559"
+         id="tspan5056"
+         sodipodi:role="line">Start game</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.21183479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5060"
+       width="270.93332"
+       height="203.2"
+       x="-301.625"
+       y="473.0932" />
+    <text
+       id="text5064"
+       y="522.11664"
+       x="-220.02126"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="522.11664"
+         x="-220.02126"
+         id="tspan5062"
+         sodipodi:role="line">Port _____</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-198.66559"
+       y="555.5675"
+       id="text5068"><tspan
+         sodipodi:role="line"
+         id="tspan5066"
+         x="-198.66559"
+         y="555.5675"
+         style="stroke-width:0.26458332px">Join game</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-220.02126"
+       y="507.75354"
+       id="text5072"><tspan
+         sodipodi:role="line"
+         id="tspan5070"
+         x="-220.02126"
+         y="507.75354"
+         style="stroke-width:0.26458332px">IP _____</tspan></text>
+    <text
+       id="text5076"
+       y="619.82349"
+       x="-178.25487"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="619.82349"
+         x="-178.25487"
+         id="tspan5074"
+         sodipodi:role="line">Status</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-211.51678"
+       y="394.92764"
+       id="text5080"><tspan
+         sodipodi:role="line"
+         id="tspan5078"
+         x="-211.51678"
+         y="394.92764"
+         style="stroke-width:0.26458332px">Waiting player 2</tspan></text>
+    <rect
+       y="251.79402"
+       x="-598.71429"
+       height="203.2"
+       width="270.93332"
+       id="rect5082"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.21183479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text5086"
+       y="273.78629"
+       x="-579.47662"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="273.78629"
+         x="-579.47662"
+         id="tspan5084"
+         sodipodi:role="line">Connected</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-579.47662"
+       y="297.59879"
+       id="text5090"><tspan
+         sodipodi:role="line"
+         id="tspan5088"
+         x="-579.47662"
+         y="297.59879"
+         style="stroke-width:0.26458332px">Turn order:</tspan></text>
+    <rect
+       y="294.73212"
+       x="-504.22021"
+       height="9.0714283"
+       width="44.223213"
+       id="rect5293"
+       style="opacity:1;fill:#0afff2;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#ffd80a;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5092"
+       width="44.223213"
+       height="9.0714283"
+       x="-504.22021"
+       y="289.81842" />
+    <rect
+       style="opacity:1;fill:#0afff2;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5295"
+       width="44.223213"
+       height="9.0714283"
+       x="-452.05951"
+       y="294.73212" />
+    <rect
+       y="289.81842"
+       x="-452.05951"
+       height="9.0714283"
+       width="44.223213"
+       id="rect5094"
+       style="opacity:1;fill:#ffd80a;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="294.73212"
+       x="-400.27676"
+       height="9.0714283"
+       width="44.223213"
+       id="rect5297"
+       style="opacity:1;fill:#0afff2;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#ffd80a;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5096"
+       width="44.223213"
+       height="9.0714283"
+       x="-400.27676"
+       y="289.81842" />
+    <text
+       id="text5104"
+       y="316.11963"
+       x="-579.47662"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="316.11963"
+         x="-579.47662"
+         id="tspan5102"
+         sodipodi:role="line">Mods:</tspan></text>
+    <rect
+       style="opacity:1;fill:#adff0a;fill-opacity:1;stroke:none;stroke-width:1.17112303;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5106"
+       width="143.18814"
+       height="94.227745"
+       x="-581.13837"
+       y="331.20682" />
+    <rect
+       style="opacity:1;fill:#5e8e00;fill-opacity:1;stroke:none;stroke-width:0.61874354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5108"
+       width="4.543582"
+       height="88.599167"
+       x="-577.83673"
+       y="333.88318" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-571.35016"
+       y="343.52289"
+       id="text5112"><tspan
+         sodipodi:role="line"
+         id="tspan5110"
+         x="-571.35016"
+         y="343.52289"
+         style="font-size:7.05555534px;stroke-width:0.26458332px">Chess v2</tspan></text>
+    <text
+       id="text5116"
+       y="353.94641"
+       x="-571.35016"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:7.05555534px;stroke-width:0.26458332px"
+         y="353.94641"
+         x="-571.35016"
+         id="tspan5114"
+         sodipodi:role="line">Checkers v4</tspan></text>
+    <text
+       id="text5120"
+       y="327.21158"
+       x="-578.91022"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:7.05555534px;stroke-width:0.26458332px"
+         y="327.21158"
+         x="-578.91022"
+         id="tspan5118"
+         sodipodi:role="line">Selected</tspan></text>
+    <rect
+       style="opacity:1;fill:#aaff04;fill-opacity:1;stroke:none;stroke-width:1.14711797;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5122"
+       width="60.679287"
+       height="11.339286"
+       x="-579.81543"
+       y="432.31543" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-577.16968"
+       y="441.38687"
+       id="text5126"><tspan
+         sodipodi:role="line"
+         id="tspan5124"
+         x="-577.16968"
+         y="441.38687"
+         style="stroke-width:0.26458332px">Reload list</tspan></text>
+    <rect
+       style="opacity:1;fill:#aaff04;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5128"
+       width="75.595238"
+       height="10.583333"
+       x="-513.66962"
+       y="433.44937" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.95042515px;line-height:3.71901536px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.14876063px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-551.91675"
+       y="408.49896"
+       id="text5132"
+       transform="scale(0.92740392,1.0782788)"><tspan
+         sodipodi:role="line"
+         id="tspan5130"
+         x="-551.91675"
+         y="408.49896"
+         style="stroke-width:0.14876063px">Hide mods you dont have</tspan></text>
+    <rect
+       style="opacity:1;fill:#aaff04;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5134"
+       width="74.083336"
+       height="11.717261"
+       x="-421.06549"
+       y="408.88092" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-401.7887"
+       y="417.19638"
+       id="text5138"><tspan
+         sodipodi:role="line"
+         id="tspan5136"
+         x="-401.7887"
+         y="417.19638"
+         style="stroke-width:0.26458332px">Ready!</tspan></text>
+    <text
+       id="text5142"
+       y="442.14282"
+       x="-422.95535"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="442.14282"
+         x="-422.95535"
+         id="tspan5140"
+         sodipodi:role="line">Player 2 status</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1.21183479;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5175"
+       width="270.93332"
+       height="203.2"
+       x="-598.71429"
+       y="474.422" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-579.47662"
+       y="496.41428"
+       id="text5179"><tspan
+         sodipodi:role="line"
+         id="tspan5177"
+         x="-579.47662"
+         y="496.41428"
+         style="stroke-width:0.26458332px">Connected</tspan></text>
+    <text
+       id="text5183"
+       y="520.22675"
+       x="-579.47662"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="520.22675"
+         x="-579.47662"
+         id="tspan5181"
+         sodipodi:role="line">Turn order:</tspan></text>
+    <rect
+       y="512.44641"
+       x="-504.22021"
+       height="9.0714283"
+       width="44.223213"
+       id="rect5185"
+       style="opacity:1;fill:#ffd80a;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#ffd80a;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5187"
+       width="44.223213"
+       height="9.0714283"
+       x="-452.05951"
+       y="512.44641" />
+    <rect
+       y="512.44641"
+       x="-400.27676"
+       height="9.0714283"
+       width="44.223213"
+       id="rect5189"
+       style="opacity:1;fill:#ffd80a;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-579.47662"
+       y="545.55115"
+       id="text5193"><tspan
+         sodipodi:role="line"
+         id="tspan5191"
+         x="-579.47662"
+         y="545.55115"
+         style="stroke-width:0.26458332px">Mods:</tspan></text>
+    <rect
+       y="553.83478"
+       x="-581.13837"
+       height="81.376556"
+       width="143.18814"
+       id="rect5195"
+       style="opacity:1;fill:#adff0a;fill-opacity:1;stroke:none;stroke-width:1.08833539;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       y="556.51117"
+       x="-577.83673"
+       height="75.370003"
+       width="4.543582"
+       id="rect5197"
+       style="opacity:1;fill:#5e8e00;fill-opacity:1;stroke:none;stroke-width:0.57068324;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text5201"
+       y="566.15088"
+       x="-571.35016"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:7.05555534px;stroke-width:0.26458332px"
+         y="566.15088"
+         x="-571.35016"
+         id="tspan5199"
+         sodipodi:role="line">Chess v2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-571.35016"
+       y="576.5744"
+       id="text5205"><tspan
+         sodipodi:role="line"
+         id="tspan5203"
+         x="-571.35016"
+         y="576.5744"
+         style="font-size:7.05555534px;stroke-width:0.26458332px">Checkers v4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-507.47275"
+       y="545.30383"
+       id="text5209"><tspan
+         sodipodi:role="line"
+         id="tspan5207"
+         x="-507.47275"
+         y="545.30383"
+         style="font-size:7.05555534px;stroke-width:0.26458332px">Chess v2</tspan></text>
+    <rect
+       y="642.09222"
+       x="-579.81543"
+       height="11.339286"
+       width="60.679287"
+       id="rect5211"
+       style="opacity:1;fill:#aaff04;fill-opacity:1;stroke:none;stroke-width:1.14711797;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text5215"
+       y="651.16364"
+       x="-577.16968"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="651.16364"
+         x="-577.16968"
+         id="tspan5213"
+         sodipodi:role="line">Reload list</tspan></text>
+    <rect
+       y="643.22614"
+       x="-513.66962"
+       height="10.583333"
+       width="75.595238"
+       id="rect5217"
+       style="opacity:1;fill:#aaff04;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text5221"
+       y="650.25256"
+       x="-513.54047"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.41621733px;line-height:4.01013565px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16040543px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.16040543px"
+         y="650.25256"
+         x="-513.54047"
+         id="tspan5219"
+         sodipodi:role="line">Toggle common mods</tspan></text>
+    <rect
+       y="574.05652"
+       x="-421.06549"
+       height="11.717261"
+       width="74.083336"
+       id="rect5223"
+       style="opacity:1;fill:#aaff04;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <text
+       id="text5227"
+       y="582.37201"
+       x="-401.7887"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332px"
+         y="582.37201"
+         x="-401.7887"
+         id="tspan5225"
+         sodipodi:role="line">Ready!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-422.95535"
+       y="562.71722"
+       id="text5231"><tspan
+         sodipodi:role="line"
+         id="tspan5229"
+         x="-422.95535"
+         y="562.71722"
+         style="stroke-width:0.26458332px">Player 1 status</tspan></text>
+    <rect
+       style="opacity:1;fill:#ee6050;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5299"
+       width="44.223213"
+       height="9.0714283"
+       x="-504.22021"
+       y="515.84821" />
+    <rect
+       y="515.84821"
+       x="-452.05951"
+       height="9.0714283"
+       width="44.223213"
+       id="rect5301"
+       style="opacity:1;fill:#ee6050;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill" />
+    <rect
+       style="opacity:1;fill:#ee6050;fill-opacity:1;stroke:none;stroke-width:0.94868332;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect5303"
+       width="44.223213"
+       height="9.0714283"
+       x="-400.27676"
+       y="515.84821" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-467.02927"
+       y="327.21158"
+       id="text5307"><tspan
+         sodipodi:role="line"
+         id="tspan5305"
+         x="-467.02927"
+         y="327.21158"
+         style="font-size:7.05555534px;stroke-width:0.26458332px">Player 2's preference</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.79564571px;line-height:4.87227821px;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19489114px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-405.9035"
+       y="405.28192"
+       id="text4581"><tspan
+         sodipodi:role="line"
+         id="tspan4579"
+         x="-405.9035"
+         y="405.28192"
+         style="stroke-width:0.19489114px">Pick a mod!</tspan></text>
+  </g>
+</svg>

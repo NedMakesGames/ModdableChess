@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3117903064
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: chess
+      Dependencies: {}
